@@ -1,7 +1,5 @@
-Hey folks! 👋 I'm Lucas Ricardi, a student of Electrical Engineering cruising through the academic maze. By day, I'm knee-deep in circuits and equations, advancing through the engineering world. By night, I don the Full Stack Jr developer hat at Dnumen, tinkering with AngularJS, "Angular 2", and .NET to bring cool projects to life.
+Greetings, esteemed visitors! 👋 I am Lucas Ricardi, a humble student of Electrical Engineering, navigating the labyrinthine corridors of academia in the heart of Uruguay. By the light of day, I find myself entrenched in the study of circuits and equations, making steady headway in the vast expanse of engineering. As night falls, I assume the mantle of Full Stack Jr Developer at Dnumen, deftly wielding the tools of AngularJS, Angular, and .NET to conjure up innovative projects.
 
-🕵️‍♂️ Like Sherlock Holmes, I love solving puzzles, be it untangling code knots or piecing together clues in a mystery novel. There's something about the thrill of discovery that keeps me going.
+🕵️‍♂️ Much like the illustrious Sherlock Holmes, I possess an ardent passion for unraveling conundrums, whether it be untangling the intricate knots of code or piecing together the elusive clues of a mystery novel. The exhilaration of discovery is my constant companion.
 
-🎸 When I'm not crunching code or wrestling with circuits, you'll catch me strumming my guitar, jamming to tunes that add rhythm to my life.
-
-Let's connect and dive into the world where engineering meets creativity! 🚀
+🎸 When not immersed in the realms of code or circuitry, you shall find me with a guitar in hand, weaving melodies that bring harmony to my existence.
